@@ -1,0 +1,7 @@
+name: AsvadiaAPI
+author: AziRixX
+version: '0.1'
+api-version: 1.13
+main: fr.asvadia.api.bukkit.BukkitAPI
+
+
